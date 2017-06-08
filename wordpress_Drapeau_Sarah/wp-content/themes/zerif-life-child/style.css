@@ -1,0 +1,102 @@
+/*
+Theme Name: Zerif Lite Child
+Theme URI: https://themeisle.com/themes/zerif-lite/
+Author: ThemeIsle
+Author URI: https://themeisle.com
+Description: Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.
+Template: zerif-lite
+Version: 1.8.5.18
+License: GNU General Public License version 3
+License URI: license.txt
+Text Domain: zerif-lite
+Domain Path: /languages/
+Tags: one-column, two-columns, right-sidebar,full-width-template,rtl-language-support,sticky-post,theme-options, custom-background, custom-menu, editor-style, featured-images, threaded-comments, translation-ready, footer-widgets, portfolio, e-commerce, blog
+*/
+
+/* Mise en page des éléments de type equipe */
+
+.equipe
+{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.equipe_title
+{
+	margin-bottom: 80px;
+}
+
+
+/* Mise en page des éléments de type collaborateur*/
+
+.collaborateur
+{
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.collaborateur_title
+{
+	margin-bottom: 80px;
+}
+
+
+/* Nom du site sur la barre de navigation à gauche */
+
+.navbar-inverse .navbar-brand .site-title a
+{
+	color: white;
+}
+
+
+/* Couleur transparente en dessous de la navigation*/
+
+.blog-header-content-wrap
+{
+	background:rgba(172, 156, 201, 0.3);
+}
+
+.header-content-wrap
+{
+	background:rgba(172, 156, 201, 0.3);
+}
+
+
+/* Couleurs des sections de la main page*/
+
+.about-us
+{
+background:#747175;
+}
+
+.testimonial
+{
+	background:#b0a5c0
+}
+
+.separator-one
+{
+	background:rgba(142, 209, 215, 0.8);
+}
+
+.separator-one .green-btn
+{
+	background:#7cc8e4;
+}
+
+.btn-primary
+{
+	border-color: white;
+}
+
+
+/* photo des articles */
+
+.thumbnail_article_general
+{
+	margin-bottom: 80px;
+	text-align: center;
+}
+
